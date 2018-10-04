@@ -1,0 +1,51 @@
+html {
+	
+}
+
+body {
+	
+}
+
+.sup-main {
+	background: #ffcd72;
+}
+
+.motorista-ativo {
+	background: #fff;
+	border-radius: 3px;
+	margin: 0 2px 1px 0;
+	padding-right: 2vh;
+	color: #000;
+}
+
+.intern-busao {
+	font-size: 3vmin;
+	margin: auto;
+	vertical-align: middle;
+	margin-top: 14px;
+}
+
+.logo-intern {
+	width: 15%;
+}
+
+.sub-main-content {
+	border-radius: 1vh;
+	padding: 2vh;
+}
+
+.display-6 {
+	font-size: 3vmin;
+}
+
+.display-7 {
+	font-size: 2vmin;
+}
+
+.text-santransit {
+	color: #ffcd72;
+}
+
+.intern-admin-comando {
+	margin-bottom: 1vh;
+}

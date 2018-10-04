@@ -1,0 +1,22 @@
+html{
+	height: 100%;
+}
+
+body {
+	min-height: 100%;
+	vertical-align: middle;
+	background: #ffcd72;
+}
+
+.card {
+	width: 100%;
+}
+
+.logo-login {
+	width: 50%;
+	margin-bottom: 5vh;
+}
+
+.botao-login {
+	margin-top: 5vh;
+}

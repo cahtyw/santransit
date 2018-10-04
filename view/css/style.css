@@ -1,0 +1,68 @@
+html {
+	height: 100%;
+}
+
+body{
+	min-height: 100%;
+}
+
+.main {
+	min-height: 100%;
+}
+
+.sup-main {
+	background: #ffcd72;
+	z-index: -1;
+	-webkit-box-shadow: 0px 0px 8px 2px #ffedce;
+		-moz-box-shadow: 0px 0px 8px 2px #ffedce;
+			box-shadow: 0px 0px 8px 2px #000000;
+}
+
+.text-santransit {
+	color: #ffcd72;
+}
+
+.sub-main-content {
+	border-radius: 1vh;
+	height: 100%;
+	padding: 2vh;
+}
+
+.display-6 {
+	font-size: 3vmin;
+}
+
+.linha-ativa {
+	background: #fff;
+	border-radius: 3px;
+	margin: 0 2px 1px 0;
+	color: #000;
+}
+
+.linha-busao {
+	font-size: 3vmin;
+	height: 100%;
+	margin: auto;
+	vertical-align: middle;
+	margin-top: 14px;
+}
+
+.text-map {
+	color: #ffcd72;
+}
+
+.text-map-disabled {
+	color: #d1d1d1;
+}
+
+.linha-botao {
+	margin-top: 10vmin;
+}
+
+.linha-operacao {
+	color: #387a38;
+}
+
+.linha-nao-operacao {
+	color: #7a3737;
+}
